@@ -23,7 +23,8 @@
 
 
 ## 👨‍🎓**Education**
-🏫<b>Šolski Center Velenje (Slovenia)<b>| Computer Technician
+🏫<b>Šolski Center Velenje (Slovenia)<b>|| Computer Technician
+🎓<b>Višja Strokovna Šola Velenje || Engineer of Informatics
 
 
 
