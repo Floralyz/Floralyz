@@ -23,7 +23,6 @@
 
 
 ## 👨‍🎓**Education**
-<br>
 🏫<b>Šolski Center Velenje (Slovenia)<b>| Computer Technician
 
 
