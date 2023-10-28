@@ -19,7 +19,7 @@
 - Currently learning Web Development by Self
 - I’m currently open for an Intern or a new job opportunity, this is [my CV](https://read.cv/0xabdulkhalid)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 ## 👨‍🎓**Education**
