@@ -35,7 +35,7 @@ I am dedicated to designing user-friendly interfaces and constructing robust bac
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </p>
 
-<br><br>
+<br>
 ## 🔗<b> Let's Connect</b>
 <ul>
 	<li>Email: <a href="mailto:tilen.ticevic01@gmail.com" target="_blank">
