@@ -8,7 +8,7 @@
 	
 ## 👋**About me**
 Hello there! I am a full-stack developer who embarked on this exciting journey in 2022.
-<br>
+<br><br>
 The first steps I made was in a program called SkillupMentor which taught me how to use a range of technologies, including React, TypeScript, Tailwind CSS and Nestjs among others. 
 I am dedicated to designing user-friendly interfaces and constructing robust backend systems to deliver smooth digital interactions.
 
