@@ -7,8 +7,6 @@
 
 	
 ## 👋**About me**
-<br>
-
 Hello there! I am a beginner full-stack developer who embarked on this exciting journey in 2022.
 
 
