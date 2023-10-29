@@ -9,9 +9,7 @@
 ## 👋**About me**
 <br>
 
-Hello there! I am Tilen and I am a beginner full-stack developer who embarked on this exciting journey in 2022.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Hello there! I am a beginner full-stack developer who embarked on this exciting journey in 2022.
 
 
 ## 👨‍🎓**Education**
