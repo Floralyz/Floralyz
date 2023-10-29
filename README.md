@@ -43,6 +43,7 @@ tilen.ticevic01@gmail.com
 </a></li>
 	<li>GitHub: <a href=https://github.com/Floralyz>Floralyz</a></li>
 </ul>
+<br>
 
 ## 📊<b> Github Stats </b>
 <br>
