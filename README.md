@@ -38,10 +38,10 @@ I am dedicated to designing user-friendly interfaces and constructing robust bac
 <br><br>
 ## 🔗<b> Let's Connect</b>
 <ul>
-	<li>Email:<a href="mailto:tilen.ticevic01@gmail.com" target="_blank">
- tilen.ticevic01@gmail.com
+	<li>Email: <a href="mailto:tilen.ticevic01@gmail.com" target="_blank">
+tilen.ticevic01@gmail.com
 </a></li>
-	<li>GitHub:<a href=https://github.com/Floralyz> Floralyz</a></li>
+	<li>GitHub: <a href=https://github.com/Floralyz>Floralyz</a></li>
 </ul>
 
 <br>
