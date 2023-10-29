@@ -45,6 +45,8 @@ tilen.ticevic01@gmail.com
 </ul>
 <br>
 
+## 🚧<b> Projects</b>
+
 ## 📊<b> Github Stats </b>
 <br>
 
