@@ -9,10 +9,7 @@
 ## 👋**About me**
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- I’m currently open for an Intern or a new job opportunity, this is [my CV](https://read.cv/0xabdulkhalid)
+Hello there! I am Tilen and I am a beginner full-stack developer who embarked on this exciting journey in 2022.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
