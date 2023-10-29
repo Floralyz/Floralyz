@@ -17,7 +17,7 @@ I am dedicated to designing user-friendly interfaces and constructing robust bac
 🏫<b>Šolski Center Velenje (Slovenia)</b> || Computer Technician<br>
 <br>
 🎓<b>Višja Strokovna Šola Velenje</b>     || Engineer of Informatics
-
+<br><br>
 
 
 ## 🛠️<b> Technologies and Tools</b>
