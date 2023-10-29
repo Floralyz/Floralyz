@@ -37,7 +37,6 @@ I am dedicated to designing user-friendly interfaces and constructing robust bac
 
 <br><br>
 ## 🔗<b> Let's Connect</b>
-<br>
 <ul>
 	<li>Email:</li>
 	<li>GitHub:</li>
