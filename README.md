@@ -38,13 +38,10 @@ I am dedicated to designing user-friendly interfaces and constructing robust bac
 <br><br>
 ## 🔗<b> Let's Connect</b>
 <br>
-<div align='left'>
-
-<a href="mailto:tilen.ticevic01@gmail.com" target="_blank">
-
-</a>
-
-</div>
+<ul>
+	<li>Email:</li>
+	<li>GitHub:</li>
+</ul>
 
 <br>
 
