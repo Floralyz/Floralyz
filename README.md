@@ -15,7 +15,7 @@ Hello there! I am a beginner full-stack developer who embarked on this exciting 
 <br>
 🎓<b>Višja Strokovna Šola Velenje</b>     || Engineer of Informatics
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🛠️<b> Technologies and Tools</b>
 <br>
@@ -31,20 +31,20 @@ Hello there! I am a beginner full-stack developer who embarked on this exciting 
    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🔗<b> Let's Connect</b>
 <br>
 <div align='left'>
 
 <a href="mailto:tilen.ticevic01@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  tilen.ticevic01-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+
 </a>
 
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
 
 ## 📊<b> Github Stats </b>
