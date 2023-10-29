@@ -44,10 +44,6 @@ tilen.ticevic01@gmail.com
 	<li>GitHub: <a href=https://github.com/Floralyz>Floralyz</a></li>
 </ul>
 
-<br>
-
-<br>
-
 ## 📊<b> Github Stats </b>
 <br>
 
